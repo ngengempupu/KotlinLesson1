@@ -11,6 +11,7 @@ class MainActivity : AppCompatActivity() {
     }
     fun initUI(){
         // do task1
+        // do task2
 
     }
 }
